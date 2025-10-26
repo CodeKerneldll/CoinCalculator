@@ -18,8 +18,11 @@ pra trocar entre brl usd e eur sem depender da internet
 ## 🎯 como usar
 
 1 baixa o exe 
+
 2 abre e digita o valor que quer converter  
+
 3 escolhe a moeda de origem e destino  
+
 4 clica em converter e pronto simples assim  
 
 💡 dica: da pra trocar rápido entre moedas sem digitar nada  
